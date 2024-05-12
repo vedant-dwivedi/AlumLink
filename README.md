@@ -18,7 +18,6 @@ AlumLink is a dynamic platform designed to foster interaction and collaboration 
 - Connect with fellow alumni and students.
 - Share updates, memories, and experiences.
 - Explore career opportunities and mentorship.
-- Stay updated with events and news related to the college/university.
 
 ## About the Project
 

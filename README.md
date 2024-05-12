@@ -10,7 +10,7 @@
 
 ## Overview
 
-AlumLink is a dynamic platform designed to foster interaction and collaboration between alumni and current students of [Your College/University Name]. Similar to popular social media platforms like Instagram, AlumLink offers various features tailored specifically for the alumni network and students.
+AlumLink is a dynamic platform designed to foster interaction and collaboration between alumni and current students. Similar to popular social media platforms, AlumLink offers various features tailored specifically for the alumni network and students.
 
 ## Features
 
@@ -22,11 +22,11 @@ AlumLink is a dynamic platform designed to foster interaction and collaboration 
 
 ## About the Project
 
-AlumLink is more than just a social network; it's a bridge connecting generations of [Your College/University Name]. This project aims to enhance networking opportunities and facilitate knowledge exchange within the community.
+AlumLink is more than just a social network; it's a bridge connecting generations. This project aims to enhance networking opportunities and facilitate knowledge exchange within the community.
 
 ## Developer
 
-Hey there! I'm [Your Name], the creator of AlumLink. As a dedicated developer, I'm committed to building a vibrant platform that enriches the alumni-student relationship. Your feedback and contributions are highly valued!
+Hey there! I'm Vedant Dwivedi, the creator of AlumLink. As a dedicated developer, I'm committed to building a vibrant platform that enriches the alumni-student relationship. Your feedback and contributions are highly valued!
 
 ## Contact
 

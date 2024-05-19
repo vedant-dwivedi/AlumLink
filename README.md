@@ -30,5 +30,3 @@ Hey there! I'm Vedant Dwivedi, the creator of AlumLink. As a dedicated developer
 ## Contact
 
 Got questions, ideas, or feedback? Feel free to reach out to me at [vedantdwivedi05404@gmail.com ](mailto:vedantdwivedi05404@gmail.com ).
-
-
